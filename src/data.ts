@@ -40,8 +40,8 @@ export const CONFERENCE_INFO = {
     en: "December 3, 2026",
   },
   abstractDeadline: {
-    fr: "15 Novembre 2026",
-    en: "November 15, 2026",
+    fr: "20 Octobre 2026",
+    en: "October 20, 2026",
   },
   registrationDeadline: {
     fr: "20 Octobre 2026",
@@ -52,8 +52,8 @@ export const CONFERENCE_INFO = {
     en: "Registration open • Deadline October 20, 2026",
   },
   venue: {
-    fr: "Salle Polyvalente, Faculté des Sciences, Kénitra",
-    en: "Salle Polyvalente, Faculty of Sciences, Kenitra",
+    fr: "Amphi Rouge, Faculté des Sciences, Kénitra",
+    en: "Amphi Rouge, Faculty of Sciences, Kenitra",
   },
   campus: "Kénitra",
   country: "Maroc",
@@ -608,7 +608,7 @@ export const AGENDA_DATA: AgendaItem[] = [
       en: "Sign-in, badge distribution, conference folders, and poster mounting.",
     },
     category: "ceremony",
-    location: "Hall Salle Polyvalente",
+    location: "Hall Amphi Rouge",
   },
   {
     time: "09:00 - 09:30",
@@ -621,7 +621,7 @@ export const AGENDA_DATA: AgendaItem[] = [
       en: "Welcome addresses by the University President, FSK Dean, and LAMPE Director.",
     },
     category: "ceremony",
-    location: "Salle Polyvalente",
+    location: "Amphi Rouge",
   },
   {
     time: "09:30 - 11:00",
@@ -634,7 +634,7 @@ export const AGENDA_DATA: AgendaItem[] = [
       en: "Oral presentations by doctoral candidates (10 min talk + 5 min Q&A per paper).",
     },
     category: "session",
-    location: "Salle Polyvalente",
+    location: "Amphi Rouge",
   },
   {
     time: "11:00 - 11:30",
@@ -660,7 +660,7 @@ export const AGENDA_DATA: AgendaItem[] = [
       en: "Presentations on biomass, biomethanation, biopolymers, and sustainable processes.",
     },
     category: "session",
-    location: "Salle Polyvalente",
+    location: "Amphi Rouge",
   },
   {
     time: "13:00 - 14:30",
@@ -686,7 +686,7 @@ export const AGENDA_DATA: AgendaItem[] = [
       en: "Research on hybrid nanomaterials, corrosion inhibition, and optoelectronics.",
     },
     category: "session",
-    location: "Salle Polyvalente",
+    location: "Amphi Rouge",
   },
   {
     time: "16:00 - 16:30",
@@ -712,7 +712,7 @@ export const AGENDA_DATA: AgendaItem[] = [
       en: "Interactive discussion between faculty and alumni in industry.",
     },
     category: "roundtable",
-    location: "Salle Polyvalente",
+    location: "Amphi Rouge",
   },
   {
     time: "17:15 - 17:45",
@@ -725,7 +725,7 @@ export const AGENDA_DATA: AgendaItem[] = [
       en: "Awards for Best Oral Presentation and Best Poster, followed by closing remarks.",
     },
     category: "closing",
-    location: "Salle Polyvalente",
+    location: "Amphi Rouge",
   },
 ];
 
@@ -875,8 +875,8 @@ export const PRACTICAL_INFOS: PracticalInfoItem[] = [
       en: "Conference Venue",
     },
     subtitle: {
-      fr: "Salle Polyvalente, Faculté des Sciences",
-      en: "Salle Polyvalente, Faculty of Sciences",
+      fr: "Amphi Rouge, Faculté des Sciences",
+      en: "Amphi Rouge, Faculty of Sciences",
     },
     description: {
       fr: "Campus universitaire Ibn Tofaïl, Kénitra. À 10 minutes de la gare ferroviaire Kénitra-Ville (liaisons directes TGV / TNR depuis Rabat et Casablanca).",
@@ -894,16 +894,16 @@ export const PRACTICAL_INFOS: PracticalInfoItem[] = [
       en: "Abstract Submission",
     },
     subtitle: {
-      fr: "Format LaTeX ou Word • 300 mots max",
-      en: "LaTeX or Word format • 300 words max",
+      fr: "Format Arial 12 • 1 page max (LaTeX ou Word)",
+      en: "Font Arial 12 • 1 page max (LaTeX or Word)",
     },
     description: {
       fr: "Les résumés doivent synthétiser clairement le contexte, la méthodologie et les résultats majeurs. Dépôt obligatoire via le formulaire Google Form.",
       en: "Abstracts must clearly summarize background, methodology, and key findings. Upload via the official Google Form is mandatory.",
     },
     highlight: {
-      fr: "Date limite : 30 Septembre 2026",
-      en: "Deadline: September 30, 2026",
+      fr: "Date limite : 20 Octobre 2026",
+      en: "Deadline: October 20, 2026",
     },
   },
   {
